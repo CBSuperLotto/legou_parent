@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/legou_basic_parent/legou_basic_parent.iml" filepath="$PROJECT_DIR$/legou_basic_parent/legou_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou_basic_parent/legou_basic_util/legou_basic_util.iml" filepath="$PROJECT_DIR$/legou_basic_parent/legou_basic_util/legou_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou_config_server_1299/legou_config_server_1299.iml" filepath="$PROJECT_DIR$/legou_config_server_1299/legou_config_server_1299.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou_eureka_7001/legou_eureka_7001.iml" filepath="$PROJECT_DIR$/legou_eureka_7001/legou_eureka_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou_parent.iml" filepath="$PROJECT_DIR$/legou_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou_plat_parent/legou_plat_interface/legou_plat_interface.iml" filepath="$PROJECT_DIR$/legou_plat_parent/legou_plat_interface/legou_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou_plat_parent/legou_plat_parent.iml" filepath="$PROJECT_DIR$/legou_plat_parent/legou_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou_plat_parent/legou_plat_service_provider_8001/legou_plat_service_provider_8001.iml" filepath="$PROJECT_DIR$/legou_plat_parent/legou_plat_service_provider_8001/legou_plat_service_provider_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou_zuul_9527/legou_zuul_9527.iml" filepath="$PROJECT_DIR$/legou_zuul_9527/legou_zuul_9527.iml" />
+    </modules>
+  </component>
+</project>

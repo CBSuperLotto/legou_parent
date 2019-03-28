@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="legou_basic_util" />
+        <module name="legou_config_server_1299" />
+        <module name="legou_eureka_7001" />
+        <module name="legou_plat_interface" />
+        <module name="legou_plat_service_provider_8001" />
+        <module name="legou_zuul_9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="legou_basic_parent" target="1.8" />
+      <module name="legou_basic_util" target="1.8" />
+      <module name="legou_config_server_1299" target="1.8" />
+      <module name="legou_eureka_7001" target="1.8" />
+      <module name="legou_parent" target="1.8" />
+      <module name="legou_plat_interface" target="1.8" />
+      <module name="legou_plat_parent" target="1.8" />
+      <module name="legou_plat_service_provider_8001" target="1.8" />
+      <module name="legou_zuul_9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
