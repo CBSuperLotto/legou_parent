@@ -13,6 +13,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/zwjcber/legou.git  #git文件地址
+          uri: https://github.com/zwjcber/legou_application_config.git  #git文件地址
           username: 1012862394@qq.com
           password: cb970412
